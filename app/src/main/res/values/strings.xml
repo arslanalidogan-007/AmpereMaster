@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AmpereMaster</string>
+    <string name="battery_monitor_channel_name">AmpereMaster Lade-Dienst</string>
+    <string name="battery_monitor_channel_desc">Zeigt Live-Ladedaten in der Statusleiste während des Ladevorgangs</string>
+    <string name="battery_alarm_channel_name">AmpereMaster Ladeziel-Alarm</string>
+    <string name="battery_alarm_channel_desc">Benachrichtigung und Alarm bei Erreichen des konfigurierten Ladeziels</string>
+</resources>

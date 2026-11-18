@@ -1,0 +1,6 @@
+{
+  "name": "AmpereMaster",
+  "description": "Präziser Akku- und Lade-Monitor mit Live-Stromstärke, Spannung, interaktiver Ladekurve und True Black OLED-Modus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
